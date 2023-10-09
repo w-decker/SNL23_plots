@@ -4,7 +4,7 @@
 The repository contains a Jupyter Notebook ([plotting.ipynb](/plotting.ipynb)) used to generate plots for Will Decker's poster presented at the Society for Neurobiology of Language annual meeting in Marseille, France in October, 2023. More details can be found inside the notebook. The project title is "The Spatio-temporal Architecture or Auditory Statistical Learning". More details surrounding the technical components to the project can be found [here](https://github.com/w-decker/Honors-Thesis).
 
 ## Using the notebook
-This notebook makes use of a variety of Python packages and tools, including [BrainIAK](brainiak.org). I recommend installing BrainIAK via conda. You can install it locally as well, but I have found it much easier to use their conda channel. Below is a simple example of how to do this. 
+This notebook makes use of a variety of Python packages and tools, including [BrainIAK](www.brainiak.org). I recommend installing BrainIAK via conda. You can install it locally as well, but I have found it much easier to use their conda channel. Below is a simple example of how to do this. 
 ```bash
 $ conda create -n my_env python=3.7
 $ conda activate my_env
