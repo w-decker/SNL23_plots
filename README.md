@@ -1,7 +1,7 @@
 # SNL23_plots
 
 ## Description
-The repository contains a Jupyter Notebook ([plotting.ipynb](/plotting.ipynb)) used to generate plots for Will Decker's poster presented at the Society for Neurobiology of Language annual meeting in Marseille, France in October, 2023. More details can be found inside the notebook. The project title is "The Spatio-temporal Architecture or Auditory Statistical Learning". More details surrounding the technical components to the project can be found [here](https://github.com/w-decker/Honors-Thesis).
+The repository contains a Jupyter Notebook ([plotting.ipynb](/plotting.ipynb)) used to generate plots for Will Decker's poster presented at the Society for Neurobiology of Language annual meeting in Marseille, France in October, 2023. More details can be found inside the notebook. The project title is "The Spatiotemporal Architecture or Auditory Statistical Learning". More details surrounding other technical components to the project can be found [here](https://github.com/w-decker/Honors-Thesis).
 
 ## Using the notebook
 This notebook makes use of a variety of Python packages and tools, including [BrainIAK](https://brainiak.org/). I recommend installing BrainIAK via conda. You can install it locally as well, but I have found it much easier to use their conda channel. Below is a simple example of how to do this. 
@@ -72,4 +72,4 @@ I have untracked the rendered figures because it just creates clutter in the rep
 If you wish to make suggestions, please SUBMIT AN ISSUE. If you wish to contribute to the notebook, please SUBMIT A PULL REQUEST. If you wish to learn more about the project, please EMAIL [jdecke5@lsu.edu](mailto:jdecke5@lsu.edu).
 
 ## Resources
-The simulated data and plots for the hidden Markov model (HMM) were adapted from tools and code provided from Chris Baldassano and BrainIAK. For a more intense adaption of the HMM code which I have created, please go [here](https://github.com/w-decker/hmm-fmri). To see the original code, check out this [blog post](http://www.chrisbaldassano.com/blog/2020/05/19/splitmerge/) from Chris Baldassano, and the [tutorials](https://brainiak.org/tutorials/12-hmm/) provided by BrainIAK.
+The simulated data and plots for the hidden Markov model (HMM) were adapted from tools and code provided from Chris Baldassano and BrainIAK. For a look at my adaption of the HMM code, please go [here](https://github.com/w-decker/hmm-fmri). To see the original code, check out this [blog post](http://www.chrisbaldassano.com/blog/2020/05/19/splitmerge/) from Chris Baldassano, and the [tutorials](https://brainiak.org/tutorials/12-hmm/) provided by BrainIAK. Aid in dealing with computational environments came from [Neuroimaging and Data Science](https://neuroimaging-data-science.org/root.html) a _very very_ helpful book from Ariel Rokem and Tal Yarkoni.
